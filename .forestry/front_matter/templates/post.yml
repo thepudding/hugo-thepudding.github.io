@@ -4,6 +4,11 @@ fields:
 - name: date
   label: Date
   type: field_group
+  fields:
+  - type: datetime
+    label: Date Created
+    name: date-created
+    default: Invalid date
   hidden: false
   default: {}
 - name: tags
