@@ -1,4 +1,6 @@
 ---
+pages:
+- another-page.md
 hide_body: false
 fields:
 - name: date
