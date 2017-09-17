@@ -1,7 +1,6 @@
 ---
 title: Test
 date: 2017-09-16 17:27:30 -0700
-draft: true
 
 ---
 
